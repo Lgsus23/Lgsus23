@@ -1,7 +1,12 @@
 # 👋 ¡Hola! Soy Jesús
 
-💻 Apasionado por aprender y enseñar el funcionamiento de las cosas.
-Me encuentro en constante aprendizaje, mejorando mis habilidades con proyectos y estudio continuo.
+# 💻 Full Stack Developer
+
+💡 Enfocado en crear soluciones eficientes y seguir evolucionando constantemente en el mundo tecnológico.
+
+Trabajo con tecnologías como JavaScript, Python y SQL, desarrollando proyectos que refuerzan tanto mi lógica como las buenas prácticas en desarrollo web.
+
+Me desenvuelvo en el ecosistema frontend utilizando HTML, CSS, React y Bootstrap, construyendo interfaces funcionales, limpias y bien estructuradas.
 
 ---
 
@@ -22,6 +27,19 @@ Me encuentro en constante aprendizaje, mejorando mis habilidades con proyectos y
 
 ---
 
+## 🚀 Perfil
+
+* **📌 Ocupación actual:**
+  Puliendo mis habilidades trabajando en páginas web y aplicaciones, tanto en proyectos personales como en entornos orientados a empresas.
+
+* **🎯 Enfoque:**
+  Afianzar mis conocimientos en bases de datos relacionales y consolidar una carrera en el ámbito de la ciberseguridad.
+
+* **🔥 Motivación:**
+  Aprender algo nuevo cada día hasta alcanzar el nivel necesario para poder enseñar y aportar a otros.
+
+---
+
 ## 📚 Actualmente aprendiendo
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge\&logo=hackthebox\&logoColor=green)
@@ -32,6 +50,19 @@ Me encuentro en constante aprendizaje, mejorando mis habilidades con proyectos y
 
 ---
 
-✨ Gracias por pasarte por aquí
+## 🧠 Mentalidad
+
+Me gusta entender cómo funcionan las cosas en profundidad, no solo utilizarlas.
+Aprendo construyendo, fallando y mejorando constantemente.
+
+---
+
+## 🎯 Objetivo
+
+Seguir creciendo como desarrollador, aportando valor en proyectos reales y enfrentando retos que me impulsen a mejorar cada día.
+
+---
+
+✨ Siempre en proceso de mejora
 
 
