@@ -22,16 +22,6 @@ Me encuentro en constante aprendizaje, mejorando mis habilidades con proyectos y
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lgsus23\&show_icons=true\&theme=tokyonight)
-
-## 🔥 Lenguajes más usados
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lgsus23\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📚 Actualmente aprendiendo
 
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge\&logo=hackthebox\&logoColor=green)
@@ -43,4 +33,5 @@ Me encuentro en constante aprendizaje, mejorando mis habilidades con proyectos y
 ---
 
 ✨ Gracias por pasarte por aquí
+
 
